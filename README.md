@@ -23,3 +23,7 @@ We aim to empower colleges and developers to enhance and customize the platform 
 ![image](https://github.com/Harshit-8/CollegeHub/assets/85034142/f0f53100-beba-41e2-aeb1-bbfa4c579572)
 
 
+# PROJECT LINK
+https://moonlit-basbousa-9d1d4b.netlify.app/
+
+
