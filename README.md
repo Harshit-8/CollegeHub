@@ -14,3 +14,6 @@ Community Interaction: Students can engage with their peers by commenting, likin
 
 # AIM
 We aim to empower colleges and developers to enhance and customize the platform further. Join the CollegeHub community today and create a vibrant ecosystem for college students to connect, learn, and share their experiences.
+
+
+![image](https://github.com/Harshit-8/CollegeHub/assets/85034142/0d274d64-cd5b-4cb0-aef8-27594b0c5dbe)
