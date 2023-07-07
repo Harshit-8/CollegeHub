@@ -17,3 +17,6 @@ We aim to empower colleges and developers to enhance and customize the platform 
 
 
 ![image](https://github.com/Harshit-8/CollegeHub/assets/85034142/0d274d64-cd5b-4cb0-aef8-27594b0c5dbe)
+
+![image](https://github.com/Harshit-8/CollegeHub/assets/85034142/c2e6df0f-4fea-4b6d-bc1f-ea821a9b8e4f)
+
